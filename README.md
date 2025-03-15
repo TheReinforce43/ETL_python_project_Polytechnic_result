@@ -47,9 +47,9 @@ To get started with this project, follow these steps:
 Contributions are welcome! If you would like to contribute to this project, please follow these steps:
 
 1. Fork the repository.
-2. Create a new branch (`git checkout -b feature/YourFeature`).
-3. Make your changes and commit them (`git commit -m 'Add your feature'`).
-4. Push to the branch (`git push origin feature/YourFeature`).
+2. Create a new branch (`git checkout -b feature/rahim_dev`).
+3. Make your changes and commit them (`git commit -m 'Add project  feature'`).
+4. Push to the branch (`git push origin feature/Yourrahim_devFeature`).
 5. Create a pull request.
 
 ## License
